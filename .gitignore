@@ -1,0 +1,12 @@
+﻿test_env/
+venv/
+.venv/
+.env
+chrome_bot_profile/
+storage/raw_clips/*.mp4
+storage/videos/*.mp4
+storage/final_output/*.mp4
+storage/audio/*.mp3
+storage/templates/*.mp4
+*.png
+__pycache__/

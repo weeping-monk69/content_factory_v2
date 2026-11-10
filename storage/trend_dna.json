@@ -1,0 +1,174 @@
+{
+  "version": "v2.5-params-5-1109-1810",
+  "last_updated": "2026-11-09T18:10:35.791288",
+  "topic_engine": {
+    "niche_queries": [
+      "dark psychology manipulation tricks hindi shorts",
+      "how to catch a liar body language hindi shorts",
+      "mind control psychology facts hindi shorts",
+      "narcissist manipulation tactics hindi shorts",
+      "upi cyber scam exposed hindi shorts",
+      "hidden money traps india shorts"
+    ],
+    "active_collision_vectors": [
+      {
+        "id": "authority_panic",
+        "weight": 1.48,
+        "description": "Telecom/banking command or fake authority panic exploit"
+      },
+      {
+        "id": "hardware_telemetry",
+        "weight": 1.3,
+        "description": "Phone sensors/battery/clipboard silently betraying the user"
+      },
+      {
+        "id": "hidden_arbitrage",
+        "weight": 1.25,
+        "description": "Decoy pricing, zero-cost EMI GST math, or cart threshold traps"
+      },
+      {
+        "id": "friction_asymmetry",
+        "weight": 1.2,
+        "description": "1-click entry vs 12-screen Roach Motel exit UI traps"
+      }
+    ]
+  },
+  "script_engine": {
+    "target_word_bounds": [
+      118,
+      134
+    ],
+    "target_duration_bounds_sec": [
+      46.0,
+      54.0
+    ],
+    "max_hook_words": 19,
+    "banned_openers": [
+      "क्या आप जानते हैं",
+      "नमस्कार दोस्तों",
+      "आज हम बात करेंगे",
+      "हेल्लो दोस्तों"
+    ],
+    "hook_templates": [
+      {
+        "id": "accusatory_action_trap",
+        "template": "जब {trigger}, तभी बैकग्राउंड में '{focus}' का जाल एक्टिव हो जाता है!",
+        "weight": 1.35
+      },
+      {
+        "id": "illusion_reversal_shock",
+        "template": "अगर {trigger}, तो रुकिए! आपके फोन में '{focus}' चालू हो चुका है!",
+        "weight": 1.25
+      },
+      {
+        "id": "silent_sensor_betrayal",
+        "template": "सावधान! जैसे ही {trigger}, तुरंत '{focus}' का खामोश खेल शुरू होता है!",
+        "weight": 1.2
+      },
+      {
+        "id": "learned_hook_4",
+        "template": "{trigger} का सच, {focus} में छुपा!",
+        "weight": 1.35
+      }
+    ],
+    "mid_video_twist_templates": [
+      {
+        "id": "escalation_reveal",
+        "prefix": "असली खेल यह है—",
+        "required_markers": [
+          "असली खेल",
+          "सबसे खतरनाक",
+          "यही नहीं"
+        ],
+        "weight": 1.3
+      }
+    ]
+  },
+  "audio_engine": {
+    "active_cadence_profile": "high_tension_documentary",
+    "cadence_profiles": {
+      "high_tension_documentary": {
+        "base_rate_pct": 8,
+        "mid_clause_pause_ms": 240,
+        "inter_scene_breath_ms": 220,
+        "max_pause_dead_air_ms": 240,
+        "weight": 1.35
+      }
+    }
+  },
+  "video_engine": {
+    "active_visual_style": "forensic_3d_cutaway",
+    "style_directives": {
+      "forensic_3d_cutaway": {
+        "suffix": "Vertical 9:16, Unreal Engine 5.4 3D forensic cutaway, dark obsidian studio, glowing crimson and cyan telemetry highlights, macro 35mm depth of field, smooth camera movement, zero gibberish text, 4k",
+        "weight": 1.35
+      }
+    }
+  },
+  "assembly_engine": {
+    "active_edit_profile": "viral_center_yellow",
+    "edit_profiles": {
+      "viral_center_yellow": {
+        "recommended_visual_cuts": 6,
+        "alternate_zoom_scale": "1188:2112",
+        "font_size": 15,
+        "primary_colour_ass": "&H0000FFFF",
+        "margin_v": 58,
+        "subtitle_burst_words": 4,
+        "weight": 1.35
+      }
+    }
+  },
+  "seo_engine": {
+    "active_title_template": "warning_bracket",
+    "title_templates": [
+      {
+        "id": "warning_bracket",
+        "pattern": "{topic} ⚠️ [सावधान] #shorts #darkpsychology",
+        "weight": 1.3
+      }
+    ]
+  },
+  "dynamic_discovered_parameters": [
+    {
+      "param_id": "numeric_shock_specificity",
+      "name": "Forensic Numeric Specificity",
+      "rule": "Scene 3 must anchor the claim with an exact odd percentage or Rupee figure (e.g., 38%, ₹1,140) rather than vague words like 'बहुत ज़्यादा'.",
+      "target_benchmark": "100% of scripts contain >=1 exact figure",
+      "discovered_from": "1M+ Viral Shorts Baseline"
+    },
+    {
+      "param_id": "micro_action_defense_clarity",
+      "name": "3-Second Actionable Defense Toggle",
+      "rule": "Scene 5 must name the exact phone menu or financial action (e.g., 'UPI AutoPay Pause', 'Clipboard Alert Toggle') the viewer can do in 10 seconds.",
+      "target_benchmark": "Concrete setting named in Scene 5",
+      "discovered_from": "1M+ Viral Shorts Baseline"
+    },
+    {
+      "param_id": "foreground_background_visual_contrast",
+      "name": "Dual-Layer Visual Depth",
+      "rule": "Each Google Flow prompt must pair a human hand/phone in the foreground with a 3D X-ray mechanism in the background.",
+      "target_benchmark": ">=90/100 Prompt Critic Score",
+      "discovered_from": "1M+ Viral Shorts Baseline"
+    },
+    {
+      "param_id": "cognitive_dissonance_contrast",
+      "name": "Cognitive Dissonance Contrast",
+      "rule": "Introduce a visual or narrative element that directly contradicts viewers’ existing beliefs within the first 3 seconds to spike attention.",
+      "target_benchmark": "Increase first‑second click‑through rate by 12% over baseline",
+      "discovered_from": "Viral Forensics (2026-11-09)"
+    },
+    {
+      "param_id": "personal_wallet_urgency",
+      "name": "Personal Wallet Urgency",
+      "rule": "Frame the core message around immediate financial impact to the viewer, using concrete rupee figures or loss percentages.",
+      "target_benchmark": "Raise average watch‑time completion for scam‑expose videos by 8%.",
+      "discovered_from": "Viral Forensics (2026-11-09)"
+    }
+  ],
+  "viral_pattern_insights": [
+    "Exposing trusted brands’ scams triggers authority‑panic, driving massive shareability.",
+    "Numeric shock (e.g., “5 DARK PSYCHOLOGY Tricks”) + promise of personal control creates a strong curiosity gap.",
+    "Videos under 4 minutes with high visual contrast and urgent language boost retention and repeat views."
+  ]
+}

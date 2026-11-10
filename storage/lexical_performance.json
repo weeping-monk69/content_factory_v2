@@ -1,0 +1,37 @@
+{
+  "updated_at": "2026-11-07T23:32:01.601106",
+  "active_lexical_mode": "high_english_urban",
+  "target_english_ratio": 0.7,
+  "winning_hook_style": "Direct Action Hook",
+  "buckets": {
+    "high_english_urban": {
+      "videos": 0,
+      "total_views": 0,
+      "avg_watch_pct": 75.0,
+      "part2_comments": 0,
+      "score": 75.0
+    },
+    "balanced_urban": {
+      "videos": 0,
+      "total_views": 0,
+      "avg_watch_pct": 70.0,
+      "part2_comments": 0,
+      "score": 70.0
+    }
+  },
+  "hook_performance": {
+    "Direct Action Hook": {
+      "videos": 0,
+      "avg_score": 75.0
+    },
+    "Shock Stat Hook": {
+      "videos": 0,
+      "avg_score": 72.0
+    },
+    "Pattern Interrupt Question Hook": {
+      "videos": 0,
+      "avg_score": 70.0
+    }
+  },
+  "feedback_logs": []
+}

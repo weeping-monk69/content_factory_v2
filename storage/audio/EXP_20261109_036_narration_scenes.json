@@ -1,0 +1,13 @@
+{
+  "scene_durations_sec": [
+    7.91,
+    7.18,
+    7.362,
+    7.908,
+    7.57,
+    8.965
+  ],
+  "mid_clause_hinge_gap_ms": 85,
+  "inter_scene_breath_ms": 120,
+  "total_ms": 46895.0
+}

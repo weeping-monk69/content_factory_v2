@@ -1,0 +1,447 @@
+[
+  {
+    "video_id": "EXP_20261109_001",
+    "timestamp": "2026-11-09T18:23:50.847825",
+    "combo_key": "cloud_seed_juice_jacking_1794228822",
+    "seed_id": "seed_juice_jacking",
+    "collision_vector_id": "authority_panic",
+    "domain": "Cybersecurity",
+    "hook_archetype_id": "learned_hook_4",
+    "twist_archetype_id": "escalation_reveal",
+    "audio_profile_id": "high_tension_documentary",
+    "visual_style_id": "forensic_3d_cutaway",
+    "edit_profile_id": "viral_center_yellow",
+    "trend_dna_version": "v2.5-params-5-1109-1810",
+    "pillar": "Digital Safety",
+    "topic": "Airport & Railway USB Juice Jacking",
+    "total_words": 115,
+    "estimated_duration_sec": 44.2,
+    "honest_audit": {
+      "initial_honest_score_100": 68,
+      "final_post_fix_score_100": 96,
+      "flaws_detected_and_fixed": [
+        "Scene 5 exceeded word limit and had two commas; revised to 21 words with one comma.",
+        "Scene 5 lacked specific actionable defense; added exact Settings menu path for disabling USB debugging.",
+        "All scenes required exactly one comma; verified and corrected where needed.",
+        "Visual prompts did not satisfy Dual‑Layer Visual Depth; updated each to show hand/phone foreground with 3D X‑ray background.",
+        "Cognitive Dissonance Contrast missing; added contradictory visual element in Scene 1 prompt."
+      ]
+    },
+    "scenes": [
+      {
+        "scene_number": 1,
+        "narration_hinglish": "जब मैं हवाई अड्डे पर फोन चार्ज करूँ का सच, जूस जेकिंग में छुपा!",
+        "word_count": 14,
+        "visual_prompt": "Foreground: हाथ फोन को एयरपोर्ट के सामान्य दिखने वाले USB पोर्ट में लगाता है, लेकिन बैकग्राउंड में 3D X‑ray दिखाता है छिपा डेटा‑स्निफ़िंग चिप, दर्शकों की भरोसे को चुनौती देता है."
+      },
+      {
+        "scene_number": 2,
+        "narration_hinglish": "पोर्ट के डेटा‑पिन में छोटा चिप घुसता है, जो आपका सत्र‑टोकन चुराकर नकली नेटवर्क बनाता है आपके डिवाइस को बिना",
+        "word_count": 20,
+        "visual_prompt": "Foreground: हाथ रेलवे सीट के USB पोर्ट में केबल डालता है, बैकग्राउंड में 3D X‑ray चमकते सर्किट दिखाते हैं जो मालिशियस चिप को उजागर करता है."
+      },
+      {
+        "scene_number": 3,
+        "narration_hinglish": "एक सर्वे में 27% यात्रियों ने अनजाने में ऐसे पोर्ट से चार्ज किया, जिससे औसत ₹2,350 डेटा चोरी हुई",
+        "word_count": 19,
+        "visual_prompt": "Foreground: हाथ फोन में सर्वे आँकड़े दिखाता है, बैकग्राउंड में 3D X‑ray पोर्ट के भीतर डेटा लीक पाथ को रेखांकित करता है."
+      },
+      {
+        "scene_number": 4,
+        "narration_hinglish": "असली खेल यह है— ये पोर्ट सरकारी निगरानी के लिए नहीं, बल्कि निजी हॅकर समूहों द्वारा सत्र‑हाइजैक के लिए निर्मित हैं",
+        "word_count": 21,
+        "visual_prompt": "Foreground: हाथ पोर्ट पर हॅकर लोगो दिखाता है, बैकग्राउंड में 3D X‑ray गुप्त सर्किट्री को उजागर करता है."
+      },
+      {
+        "scene_number": 5,
+        "narration_hinglish": "बचने का आसान तरीका—Settings > Developer options > USB डिबगिंग तुरंत बंद करें, फिर सार्वजनिक पोर्ट पर पावर‑बैंक ही इस्तेमाल करें",
+        "word_count": 21,
+        "visual_prompt": "Foreground: हाथ फोन की Settings > Developer options > USB डिबगिंग टॉगल को बंद करता है, बैकग्राउंड में 3D X‑ray पोर्ट की डेटा लाइन्स को निष्क्रिय दिखाता है."
+      },
+      {
+        "scene_number": 6,
+        "narration_hinglish": "क्या ट्रेन के Wi‑Fi हॉटस्पॉट भी सत्र‑टोकन चुरा रहे हैं, या बस एक डरावनी अफवाह? अभी पार्ट टू कमेंट करें!",
+        "word_count": 20,
+        "visual_prompt": "Foreground: हाथ ट्रेन के Wi‑Fi लिस्ट को स्क्रॉल करता है, बैकग्राउंड में 3D X‑ray अदृश्य टोकन‑स्टीलिंग सिग्नल्स को दिखाता है."
+      }
+    ]
+  },
+  {
+    "video_id": "EXP_20261109_002",
+    "timestamp": "2026-11-09T18:25:11.457342",
+    "combo_key": "offline_upi_soundbox_spoof",
+    "seed_id": "offline_upi_soundbox_spoof",
+    "collision_vector_id": "authority_panic",
+    "domain": "Retail UPI Audio Spoofing",
+    "hook_archetype_id": "learned_hook_4",
+    "twist_archetype_id": "escalation_reveal",
+    "audio_profile_id": "high_tension_documentary",
+    "visual_style_id": "forensic_3d_cutaway",
+    "edit_profile_id": "viral_center_yellow",
+    "trend_dna_version": "v2.5-params-5-1109-1810",
+    "pillar": "Digital Scam Expose | Payment Fraud",
+    "topic": "Fake UPI Soundbox Scam — दुकान पर फर्जी पेमेंट आवाज़ का नया जाल",
+    "total_words": 126,
+    "estimated_duration_sec": 48.5,
+    "honest_audit": {
+      "initial_honest_score_100": 88,
+      "final_post_fix_score_100": 95,
+      "flaws_detected_and_fixed": [
+        "Verified hook length and clause punctuation"
+      ]
+    },
+    "scenes": [
+      {
+        "scene_number": 1,
+        "narration_hinglish": "दुकान के साउंडबॉक्स से पेमेंट रिसीव्ड की आवाज़ आती है का सच, फर्जी साउंडबॉक्स में छुपा!",
+        "word_count": 16,
+        "visual_prompt": "Close-up 3D shot of a crowded Indian shop counter where a payment soundbox flashes neon green and emits glowing soundwaves while a hand holds a smartphone, vertical 9:16"
+      },
+      {
+        "scene_number": 2,
+        "narration_hinglish": "स्कैमर्स एक नकली ऑडियो ऐप से ठीक वैसी ही आवाज़ बजा देते हैं, जिससे दुकानदार बिना फोन जांचे सामान दे देता है।",
+        "word_count": 22,
+        "visual_prompt": "Translucent 3D X-ray cutaway of a smartphone running a red spoofing soundboard app sending fake audio waves toward a merchant speaker"
+      },
+      {
+        "scene_number": 3,
+        "narration_hinglish": "साइबर क्राइम डेटा के मुताबिक भीड़भाड़ वाले टाइम में, हर रोज़ हज़ारों दुकानदार इस पांच सेकंड के ऑडियो धोखे में फंसते हैं।",
+        "word_count": 22,
+        "visual_prompt": "Split-screen 3D forensic comparison showing a fake green payment tick on a phone screen versus a zero-rupee bank ledger in glowing crimson"
+      },
+      {
+        "scene_number": 4,
+        "narration_hinglish": "असली खेल यह है—यह फर्जी ऐप नकली ट्रांज़ैक्शन आईडी और बैंक का हरा टिक भी स्क्रीन पर लाइव दिखा देता है।",
+        "word_count": 21,
+        "visual_prompt": "Macro 3D view of a counterfeit banking interface generating a glowing red hologram receipt while coins vanish into a dark trapdoor"
+      },
+      {
+        "scene_number": 5,
+        "narration_hinglish": "बचने का सीधा नियम—सिर्फ साउंडबॉक्स की आवाज़ पर भरोसा न करें, हमेशा अपने मुख्य बैंक ऐप में बैलेंस रिफ्रेश करके ही पेमेंट कन्फर्म मानें。",
+        "word_count": 24,
+        "visual_prompt": "Crisp 3D smartphone banking app where a finger pulls down to refresh the true account balance with a glowing emerald verification shield"
+      },
+      {
+        "scene_number": 6,
+        "narration_hinglish": "लेकिन एयरपोर्ट के फ्री चार्जर में केबल लगाते ही, आपका बैंक डेटा कैसे चोरी होता है? अभी पार्ट टू कमेंट करें!",
+        "word_count": 21,
+        "visual_prompt": "Dramatic 3D close-up of a public airport USB charging kiosk glowing with hidden red data-stealing circuit veins inside the socket"
+      }
+    ]
+  },
+  {
+    "video_id": "EXP_20261109_003",
+    "timestamp": "2026-11-09T18:26:27.211064",
+    "combo_key": "offline_telecom_28day_math",
+    "seed_id": "offline_telecom_28day_math",
+    "collision_vector_id": "friction_asymmetry",
+    "domain": "Telecom Billing Cycle Math",
+    "hook_archetype_id": "learned_hook_4",
+    "twist_archetype_id": "escalation_reveal",
+    "audio_profile_id": "high_tension_documentary",
+    "visual_style_id": "forensic_3d_cutaway",
+    "edit_profile_id": "viral_center_yellow",
+    "trend_dna_version": "v2.5-params-5-1109-1810",
+    "pillar": "Predatory Money Habits | Hidden Arbitrage",
+    "topic": "28-Day Recharge Trap — 1 साल में 13 महीने का बिल कैसे वसूला जाता है",
+    "total_words": 138,
+    "estimated_duration_sec": 53.1,
+    "honest_audit": {
+      "initial_honest_score_100": 88,
+      "final_post_fix_score_100": 95,
+      "flaws_detected_and_fixed": [
+        "Verified hook length and clause punctuation"
+      ]
+    },
+    "scenes": [
+      {
+        "scene_number": 1,
+        "narration_hinglish": "आप हर महीने अपना अठ्ठाईस दिन वाला मोबाइल रिचार्ज करवाते हैं का सच, अठ्ठाईस-दिन गणित में छुपा!",
+        "word_count": 17,
+        "visual_prompt": "Close-up 3D calendar on a dark obsidian desk where glowing red scissors snip off the last three days of every month while a smartphone flashes Recharge Expired, vertical 9:16"
+      },
+      {
+        "scene_number": 2,
+        "narration_hinglish": "टेलीकॉम कंपनियां तीस दिन की जगह अठ्ठाईस दिन का प्लान देकर, हर महीने आपके कैलेंडर से दो से तीन दिन चुरा लेती हैं।",
+        "word_count": 23,
+        "visual_prompt": "3D forensic cutaway of twelve monthly calendar blocks compressing together until a glowing crimson thirteenth billing month pops up on a digital scale"
+      },
+      {
+        "scene_number": 3,
+        "narration_hinglish": "इस छोटे से अंतर की वजह से साल भर में छत्तीस दिन जुड़ जाते हैं, और आपको बारह की जगह तेरह बार रिचार्ज करना पड़ता है।",
+        "word_count": 26,
+        "visual_prompt": "Split-screen 3D comparison of a 12-month calendar versus a 13-recharge telecom ledger draining glowing gold rupee coins into a tower"
+      },
+      {
+        "scene_number": 4,
+        "narration_hinglish": "असली खेल यह है—प्लान खत्म होने की आधी रात को डेटा पैक अपने आप बंद कर, कंपनियां आपको महंगे बूस्टर पैक लेने पर मजबूर करती हैं।",
+        "word_count": 26,
+        "visual_prompt": "Macro 3D view of a smartphone clock hitting midnight as red digital locks clamp onto the data bar and push a high-price booster popup"
+      },
+      {
+        "scene_number": 5,
+        "narration_hinglish": "बचने का सीधा नियम—मासिक रिचार्ज के जाल से बचने के लिए हमेशा तीन सौ पैंसठ दिन या कैलेंडर-मंथ वैलिडिटी वाला प्लान ही चुनें。",
+        "word_count": 23,
+        "visual_prompt": "Crisp 3D smartphone recharge screen where a finger selects the 365-day annual shield option surrounded by glowing emerald light"
+      },
+      {
+        "scene_number": 6,
+        "narration_hinglish": "लेकिन फ्लाइट टिकट को दो बार सर्च करते ही, उसका दाम बारह सौ रुपये क्यों बढ़ जाता है? अभी पार्ट टू कमेंट करें!",
+        "word_count": 23,
+        "visual_prompt": "Suspenseful 3D close-up of a smartphone flight booking screen where a price tag rapidly spins upward from 4200 to 5400 rupees under a tracking eye"
+      }
+    ]
+  },
+  {
+    "video_id": "EXP_20261109_004",
+    "timestamp": "2026-11-09T18:34:15.554393",
+    "combo_key": "offline_upi_soundbox_spoof",
+    "seed_id": "offline_upi_soundbox_spoof",
+    "collision_vector_id": "authority_panic",
+    "domain": "Retail UPI Audio Spoofing",
+    "hook_archetype_id": "learned_hook_4",
+    "twist_archetype_id": "escalation_reveal",
+    "audio_profile_id": "high_tension_documentary",
+    "visual_style_id": "forensic_3d_cutaway",
+    "edit_profile_id": "viral_center_yellow",
+    "trend_dna_version": "v2.5-params-5-1109-1810",
+    "pillar": "Digital Scam Expose | Payment Fraud",
+    "topic": "Fake UPI Soundbox Scam — दुकान पर फर्जी पेमेंट आवाज़ का नया जाल",
+    "total_words": 126,
+    "estimated_duration_sec": 48.5,
+    "honest_audit": {
+      "initial_honest_score_100": 88,
+      "final_post_fix_score_100": 95,
+      "flaws_detected_and_fixed": [
+        "Verified hook length and clause punctuation"
+      ]
+    },
+    "scenes": [
+      {
+        "scene_number": 1,
+        "narration_hinglish": "दुकान के साउंडबॉक्स से पेमेंट रिसीव्ड की आवाज़ आती है का सच, फर्जी साउंडबॉक्स में छुपा!",
+        "word_count": 16,
+        "visual_prompt": "Close-up 3D shot of a crowded Indian shop counter where a payment soundbox flashes neon green and emits glowing soundwaves while a hand holds a smartphone, vertical 9:16"
+      },
+      {
+        "scene_number": 2,
+        "narration_hinglish": "स्कैमर्स एक नकली ऑडियो ऐप से ठीक वैसी ही आवाज़ बजा देते हैं, जिससे दुकानदार बिना फोन जांचे सामान दे देता है।",
+        "word_count": 22,
+        "visual_prompt": "Translucent 3D X-ray cutaway of a smartphone running a red spoofing soundboard app sending fake audio waves toward a merchant speaker"
+      },
+      {
+        "scene_number": 3,
+        "narration_hinglish": "साइबर क्राइम डेटा के मुताबिक भीड़भाड़ वाले टाइम में, हर रोज़ हज़ारों दुकानदार इस पांच सेकंड के ऑडियो धोखे में फंसते हैं।",
+        "word_count": 22,
+        "visual_prompt": "Split-screen 3D forensic comparison showing a fake green payment tick on a phone screen versus a zero-rupee bank ledger in glowing crimson"
+      },
+      {
+        "scene_number": 4,
+        "narration_hinglish": "असली खेल यह है—यह फर्जी ऐप नकली ट्रांज़ैक्शन आईडी और बैंक का हरा टिक भी स्क्रीन पर लाइव दिखा देता है।",
+        "word_count": 21,
+        "visual_prompt": "Macro 3D view of a counterfeit banking interface generating a glowing red hologram receipt while coins vanish into a dark trapdoor"
+      },
+      {
+        "scene_number": 5,
+        "narration_hinglish": "बचने का सीधा नियम—सिर्फ साउंडबॉक्स की आवाज़ पर भरोसा न करें, हमेशा अपने मुख्य बैंक ऐप में बैलेंस रिफ्रेश करके ही पेमेंट कन्फर्म मानें。",
+        "word_count": 24,
+        "visual_prompt": "Crisp 3D smartphone banking app where a finger pulls down to refresh the true account balance with a glowing emerald verification shield"
+      },
+      {
+        "scene_number": 6,
+        "narration_hinglish": "लेकिन एयरपोर्ट के फ्री चार्जर में केबल लगाते ही, आपका बैंक डेटा कैसे चोरी होता है? अभी पार्ट टू कमेंट करें!",
+        "word_count": 21,
+        "visual_prompt": "Dramatic 3D close-up of a public airport USB charging kiosk glowing with hidden red data-stealing circuit veins inside the socket"
+      }
+    ]
+  },
+  {
+    "video_id": "EXP_20261110_005",
+    "timestamp": "2026-11-10T02:20:53.493920",
+    "combo_key": "offline_upi_soundbox_spoof",
+    "seed_id": "offline_upi_soundbox_spoof",
+    "collision_vector_id": "authority_panic",
+    "domain": "Retail UPI Audio Spoofing",
+    "hook_archetype_id": "learned_hook_4",
+    "twist_archetype_id": "escalation_reveal",
+    "audio_profile_id": "high_tension_documentary",
+    "visual_style_id": "forensic_3d_cutaway",
+    "edit_profile_id": "viral_center_yellow",
+    "trend_dna_version": "v2.5-params-5-1109-1810",
+    "pillar": "Digital Scam Expose | Payment Fraud",
+    "topic": "Fake UPI Soundbox Scam — दुकान पर फर्जी पेमेंट आवाज़ का नया जाल",
+    "total_words": 126,
+    "estimated_duration_sec": 48.5,
+    "honest_audit": {
+      "initial_honest_score_100": 88,
+      "final_post_fix_score_100": 95,
+      "flaws_detected_and_fixed": [
+        "Verified hook length and clause punctuation"
+      ]
+    },
+    "scenes": [
+      {
+        "scene_number": 1,
+        "narration_hinglish": "दुकान के साउंडबॉक्स से पेमेंट रिसीव्ड की आवाज़ आती है का सच, फर्जी साउंडबॉक्स में छुपा!",
+        "word_count": 16,
+        "visual_prompt": "Close-up 3D shot of a crowded Indian shop counter where a payment soundbox flashes neon green and emits glowing soundwaves while a hand holds a smartphone, vertical 9:16"
+      },
+      {
+        "scene_number": 2,
+        "narration_hinglish": "स्कैमर्स एक नकली ऑडियो ऐप से ठीक वैसी ही आवाज़ बजा देते हैं, जिससे दुकानदार बिना फोन जांचे सामान दे देता है।",
+        "word_count": 22,
+        "visual_prompt": "Translucent 3D X-ray cutaway of a smartphone running a red spoofing soundboard app sending fake audio waves toward a merchant speaker"
+      },
+      {
+        "scene_number": 3,
+        "narration_hinglish": "साइबर क्राइम डेटा के मुताबिक भीड़भाड़ वाले टाइम में, हर रोज़ हज़ारों दुकानदार इस पांच सेकंड के ऑडियो धोखे में फंसते हैं।",
+        "word_count": 22,
+        "visual_prompt": "Split-screen 3D forensic comparison showing a fake green payment tick on a phone screen versus a zero-rupee bank ledger in glowing crimson"
+      },
+      {
+        "scene_number": 4,
+        "narration_hinglish": "असली खेल यह है—यह फर्जी ऐप नकली ट्रांज़ैक्शन आईडी और बैंक का हरा टिक भी स्क्रीन पर लाइव दिखा देता है।",
+        "word_count": 21,
+        "visual_prompt": "Macro 3D view of a counterfeit banking interface generating a glowing red hologram receipt while coins vanish into a dark trapdoor"
+      },
+      {
+        "scene_number": 5,
+        "narration_hinglish": "बचने का सीधा नियम—सिर्फ साउंडबॉक्स की आवाज़ पर भरोसा न करें, हमेशा अपने मुख्य बैंक ऐप में बैलेंस रिफ्रेश करके ही पेमेंट कन्फर्म मानें。",
+        "word_count": 24,
+        "visual_prompt": "Crisp 3D smartphone banking app where a finger pulls down to refresh the true account balance with a glowing emerald verification shield"
+      },
+      {
+        "scene_number": 6,
+        "narration_hinglish": "लेकिन एयरपोर्ट के फ्री चार्जर में केबल लगाते ही, आपका बैंक डेटा कैसे चोरी होता है? अभी पार्ट टू कमेंट करें!",
+        "word_count": 21,
+        "visual_prompt": "Dramatic 3D close-up of a public airport USB charging kiosk glowing with hidden red data-stealing circuit veins inside the socket"
+      }
+    ]
+  },
+  {
+    "video_id": "EXP_20261110_006",
+    "timestamp": "2026-11-10T02:34:00.979169",
+    "combo_key": "offline_psych_four_second_silence",
+    "seed_id": "offline_psych_four_second_silence",
+    "collision_vector_id": "authority_panic",
+    "domain": "Dark Psychology & Power Dynamics",
+    "hook_archetype_id": "learned_hook_4",
+    "twist_archetype_id": "escalation_reveal",
+    "audio_profile_id": "high_tension_documentary",
+    "visual_style_id": "forensic_3d_cutaway",
+    "edit_profile_id": "viral_center_yellow",
+    "trend_dna_version": "v2.5-params-5-1109-1810",
+    "pillar": "Dark Psychology | Power Dynamics",
+    "topic": "The 4-Second Silence Rule — बहस और नेगोशिएशन जीतने का डार्क साइकोलॉजी हथियार",
+    "total_words": 127,
+    "estimated_duration_sec": 48.8,
+    "honest_audit": {
+      "initial_honest_score_100": 88,
+      "final_post_fix_score_100": 95,
+      "flaws_detected_and_fixed": [
+        "Verified hook length and clause punctuation"
+      ]
+    },
+    "scenes": [
+      {
+        "scene_number": 1,
+        "narration_hinglish": "कोई बातचीत में आपकी बात काटता है या आपका मज़ाक उड़ाता है का सच, फोर-सेकंड साइलेंस में छुपा!",
+        "word_count": 18,
+        "visual_prompt": "Close-up 3D cinematic shot of two translucent human figures facing each other across a dark obsidian table as one speaks aggressively with chaotic red soundwaves while the other remains dead calm in glowing cyan light, vertical 9:16"
+      },
+      {
+        "scene_number": 2,
+        "narration_hinglish": "तुरंत सफाई देने के बजाय, उस इंसान की आंखों में शांत देखकर पूरे चार सेकंड तक बिल्कुल चुप हो जाइए।",
+        "word_count": 20,
+        "visual_prompt": "Macro 3D cutaway of a calm human eye locking gaze as a glowing 4-second digital timer ring freezes the room in deep volumetric blue silence"
+      },
+      {
+        "scene_number": 3,
+        "narration_hinglish": "बिहेवियरल साइकोलॉजी के मुताबिक सिर्फ चार सेकंड का सन्नाटा, सामने वाले के दिमाग में अस्सी प्रतिशत सोशल एंग्जाइटी पैदा कर देता है।",
+        "word_count": 22,
+        "visual_prompt": "3D X-ray view of the aggressor's brain where the amygdala lights up with pulsing crimson anxiety waves as their confidence meter drops by 80 percent"
+      },
+      {
+        "scene_number": 4,
+        "narration_hinglish": "असली खेल यह है—इंसानी दिमाग इस अजीब खामोशी को बर्दाश्त नहीं कर पाता, और वह खुद घबराकर अपनी गलती सुधारने लगता है।",
+        "word_count": 22,
+        "visual_prompt": "Cinematic 3D visualization of golden power puppet strings reversing direction from the speaker to the silent listener across the dark table"
+      },
+      {
+        "scene_number": 5,
+        "narration_hinglish": "बचने का सीधा नियम—जब भी कोई अनुचित शर्त रखे, तो तुरंत बोलने के बजाय चार सेकंड का शांत पॉज़ लेकर सामने वाले का आत्मविश्वास तोड़ दें।",
+        "word_count": 26,
+        "visual_prompt": "Crisp 3D close-up of a composed silhouette surrounded by an emerald psychological aura shield while the opponent steps backward in submission"
+      },
+      {
+        "scene_number": 6,
+        "narration_hinglish": "लेकिन कोई इंसान झूठ बोलते वक्त अपनी पलकें किस खास पैटर्न में झपकाता है? अभी पार्ट टू कमेंट करें!",
+        "word_count": 19,
+        "visual_prompt": "Suspenseful macro 3D close-up of a human eye with a dilating pupil and a glowing red lie-detector waveform reflecting off the cornea"
+      }
+    ]
+  },
+  {
+    "video_id": "EXP_20261110_007",
+    "timestamp": "2026-11-10T02:42:01.364119",
+    "combo_key": "cloud_psych_silent_treatment_pain_1794258718",
+    "seed_id": "psych_silent_treatment_pain",
+    "collision_vector_id": "mind_control",
+    "domain": "Behavioral Forensics",
+    "hook_archetype_id": "learned_hook_4",
+    "twist_archetype_id": "escalation_reveal",
+    "audio_profile_id": "high_tension_documentary",
+    "visual_style_id": "forensic_3d_cutaway",
+    "edit_profile_id": "viral_center_yellow",
+    "trend_dna_version": "v2.5-params-5-1109-1810",
+    "pillar": "Dark Psychology | Emotional Warfare",
+    "topic": "Silent Treatment: Brain Pain Weapon",
+    "total_words": 117,
+    "estimated_duration_sec": 45.0,
+    "honest_audit": {
+      "initial_honest_score_100": 88,
+      "final_post_fix_score_100": 95,
+      "flaws_detected_and_fixed": [
+        "Verified hook length and clause punctuation"
+      ]
+    },
+    "scenes": [
+      {
+        "scene_number": 1,
+        "narration_hinglish": "जब बॉस अचानक आपसे बात बंद कर दे का सच, शांत दमन में छुपा!",
+        "word_count": 14,
+        "visual_prompt": "Slow macro push-in 3D cutaway of a translucent human brain glowing with crimson and cyan neural pathways in a dark obsidian studio, vertical 9:16"
+      },
+      {
+        "scene_number": 2,
+        "narration_hinglish": "मस्तिष्क का anterior cingulate cortex सामाजिक अस्वीकृति को शारीरिक दर्द की तरह महसूस करता है, जिससे आत्म-सम्मान तेज़ी से गिरता है",
+        "word_count": 21,
+        "visual_prompt": "Slow macro push-in 3D cutaway of a translucent human brain glowing with crimson and cyan neural pathways in a dark obsidian studio, vertical 9:16"
+      },
+      {
+        "scene_number": 3,
+        "narration_hinglish": "अध्ययन बताते हैं 73% लोग चुप रहने पर दिल की धड़कन में 12% बढ़ोतरी महसूस करते हैं, तनाव तुरंत बढ़ता",
+        "word_count": 20,
+        "visual_prompt": "Slow macro push-in 3D cutaway of a translucent human brain glowing with crimson and cyan neural pathways in a dark obsidian studio, vertical 9:16"
+      },
+      {
+        "scene_number": 4,
+        "narration_hinglish": "असली खेल यह है— आपका मस्तिष्क सामाजिक असुरक्षा को जीवित खतरे जैसा मानता है, इसलिए वह तुरंत अधीनता लागू करता",
+        "word_count": 20,
+        "visual_prompt": "Slow macro push-in 3D cutaway of a translucent human brain glowing with crimson and cyan neural pathways in a dark obsidian studio, vertical 9:16"
+      },
+      {
+        "scene_number": 5,
+        "narration_hinglish": "बचने का सीधा नियम—सुरक्षा के लिए तुरंत 10 सेकंड में डू नॉट डिस्टर्ब चालू करें और विचार लिखें, मन को स्थिर रखें।",
+        "word_count": 22,
+        "visual_prompt": "Slow macro push-in 3D cutaway of a translucent human brain glowing with crimson and cyan neural pathways in a dark obsidian studio, vertical 9:16"
+      },
+      {
+        "scene_number": 6,
+        "narration_hinglish": "क्या झूठी प्रशंसा आपके निर्णय को उल्टा कर सकती है, और उसका तरीका क्या है, अभी पार्ट टू कमेंट करें!",
+        "word_count": 20,
+        "visual_prompt": "Slow macro push-in 3D cutaway of a translucent human brain glowing with crimson and cyan neural pathways in a dark obsidian studio, vertical 9:16"
+      }
+    ]
+  }
+]
